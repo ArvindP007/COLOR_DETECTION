@@ -1,4 +1,7 @@
 # COLOR_DETECTION
+OUTPUT:
+![image](https://github.com/ArvindP007/COLOR_DETECTION/assets/85785725/51a7d60f-3e69-4a49-8f72-13dbda1eda2a)
+
 Color Detector By Arvind Patkal
 
 COLOR DETECTION
